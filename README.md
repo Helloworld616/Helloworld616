@@ -1,6 +1,7 @@
 ### Welcome! 👋  This is the Jun's Gitbub, the awesome Korean guy! 🤘
-#### I ❤ Music & Programming... Gimme some music and codes! 🤩
+### I ❤ Music & Programming... Gimme some music and codes! 🤩
 
+#### And Here's the languages and music I can play and enjoy! Check it out! 😉
 
 - **Language**
   - Python
