@@ -1,6 +1,7 @@
 ### Welcome! 👋  This is the Jun's Gitbub, the awesome Korean guy! 🤘
 #### I ❤ Music & Programming... Gimme some music and codes! 🤩
 
+
 - **Language**
   - Python
   - C
