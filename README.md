@@ -1,4 +1,4 @@
-# Welcome! 👋  This is the Jun's Github! 🎉
+# Welcome! 👋  This is Jun's Github! 🎉
 #### I ❤ Music & Programming... Gimme some music and codes! 🤩
 #### And here's the languages and music I can play and enjoy! Check it out! 😉
 
