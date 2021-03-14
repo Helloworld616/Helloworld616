@@ -1,6 +1,25 @@
-### Hi there 👋
+### Welcome! 👋  This is the Jun's Gitbub, the awesome Korean guy! 🤘
+#### I ❤ Music & Programming... Gimme some music and codes! 🤩
 
-[![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helloworld616&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+- **Language**
+  - Python
+  - C
+  - C++ (A little bit 😂)
+  - Java (A little bit 😂)
+  - JavaScript (A little bit 😂)
+  - jQuery (A little bit 😂)
+
+- **Framework**
+  - Django 
+  - Bootstrap
+  
+- **Music**
+  - Pop
+  - Rock
+  - Hip-Hop
+  - Ballad
+  - Jazz
+  - R&B
 
 
 <!--
