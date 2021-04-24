@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome! 👋  This is Jun's Github! 🎉 </h1>
-<h4 align="center">I ❤ Music & Programming... Gimme some music and codes! 🤩</h4>
+<h4 align="center">I ❤ Music & Programming... Gimme some melodies and codes! 🤩</h4>
 <h4 align="center">And here's the skills and music I can play and enjoy! Check it out! 😉</h4>
 <br>
 <h3 align="center">📄 Languages 📄</h3>
