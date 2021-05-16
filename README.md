@@ -9,7 +9,7 @@
 <br>
 <h3 align="center">💻 Frameworks 💻</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Djago-092E20?style=flat-square&logo=Djago&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </p>
 <br>
 <h3 align="center">🎧 Music 🎧</h3>
